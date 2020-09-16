@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: red;
+    
+}
+.title{
+    
+   
+ width: 500px;
+ height: 300px;   
+ margin:20px auto; 
+}
+.tit{
+    text-transform: uppercase;
+   text-align: center;
+}
+.boder{
+    border-width: 5px ;
+    border-style: double;
+    border-color: orange;
+}
+.bo{
+    border-width: 1px ;
+    border-style: solid;
+    border-color: orange;
+    background-color: orangered;
+}
+.text{
+      color:white;
+      font-weight: bold;
+      padding-left:0;
+}
